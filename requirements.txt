@@ -1,6 +1,6 @@
-aiohttp==3.8.1
-async-timeout==4.0.2
-attrs==21.4.0
+aiohttp
+async-timeout
+attrs
 certifi==2021.10.8
 chardet==4.0.0
 charset-normalizer==2.0.10
