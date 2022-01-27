@@ -12,8 +12,8 @@ previous_arr, offset = [], 3
 CONTRACT, INTERVAL, LIMIT = "0xd254a3c351dad83f8b369554b420047a1ed60f1c", 60, 30
 CONTRACT = CONTRACT.lower()
 burn_count_prev = 0
-BITQUERY = "BQYACsUPhRNhqH0YVIskV6uOPC28FdmV"
-BITQUERY2 = "BQYCID0t2GKot2dD5inVPc1k9nlIWRZC"
+BITQUERY = "sign_up on bitquery, graphql ide"
+BITQUERY2 = ""
 
 async def get_block_height():
     query = """{
