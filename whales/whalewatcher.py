@@ -7,7 +7,7 @@ from helper.setup import bot
 from helper.formatter import price_formatter
 from datetime import datetime
 
-API_KEY = "Q37RXRC1DMTEFIPBU9MTTEGKHI37NVVVXR"
+API_KEY = "KEY"
 previous_arr, offset = [], 3
 CONTRACT, INTERVAL, LIMIT = "0xd254a3c351dad83f8b369554b420047a1ed60f1c", 60, 30
 CONTRACT = CONTRACT.lower()
