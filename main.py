@@ -11,7 +11,7 @@ from whales.whalewatcher import track_buy_back_burn
 
 
 
-TOKEN_AUTH = "OTM0MzE5NDc2MTk3OTgyMjU4.YeuW0Q.GNOYrE48ZDpw-SlqnhMcjI-szzg"
+TOKEN_AUTH = "KEY"
 
 
 sleep(30)
