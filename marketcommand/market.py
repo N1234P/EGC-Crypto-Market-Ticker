@@ -1,11 +1,11 @@
 import requests
 import pandas as pd
 
-API_KEY = "Q37RXRC1DMTEFIPBU9MTTEGKHI37NVVVXR"
+API_KEY = "KEY"
 
 
 async def get_price():
-    API_KEY = "MJYCR4Q2Z98ZDHTWAMFFCTJXTEKEDPKFQQ"
+    API_KEY = "KEY"
 
     try:
         bnb_lq = requests.get("https://api.bscscan.com/api?module=account&action=tokenbalance&contractaddress"
